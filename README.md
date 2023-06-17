@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="public/img/hoobank.gif" alt="Demonstration video" />
+  <img src="public/gif/hoobank.gif" alt="Demonstration video" />
 </div>
 
 <div align="center">
